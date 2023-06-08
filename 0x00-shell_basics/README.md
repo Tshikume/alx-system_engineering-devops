@@ -7,3 +7,4 @@
 6-firstdirectory is a script that creates a directory inside the directory /tmp/
 7-movethatfile is a script to move file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete is a script to delete file betty
+9-firstdirdeletion is a script to delete the directory my_first_directory that is in the /tmp directory
