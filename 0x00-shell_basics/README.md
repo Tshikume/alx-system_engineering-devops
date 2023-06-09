@@ -12,3 +12,4 @@
 11-lists is a script that lists in long format all files including hidden ones in both current and parent directory
 12-file_type is a script to print iamfile in the /tmp directory
 13-symbolic_link is a script that crates a symbolic link
+14-copy_html is a script that copies all html files from current to parent directory
