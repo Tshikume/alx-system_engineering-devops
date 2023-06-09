@@ -10,3 +10,4 @@
 9-firstdirdeletion is a script to delete the directory my_first_directory that is in the /tmp directory
 10-backis a script that changes working directory to the previous one
 11-lists is a script that lists in long format all files including hidden ones in both current and parent directory
+12-file_type is a script to print iamfile in the /tmp directory
