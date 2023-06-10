@@ -14,3 +14,4 @@
 13-symbolic_link is a script that crates a symbolic link
 14-copy_html is a script that copies all html files from current to parent directory
 0-iam_betty is a script that switches the current user to the user betty
+1-who_am_i is a script that prints the effective username of the current user
