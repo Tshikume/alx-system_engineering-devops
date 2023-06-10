@@ -19,3 +19,4 @@
 3-new_owner is a script that changes the owner of the file hello to the user betty
 4-empty is a script that creates an empty file called hello
 5-execute is a script that makes file hello executable
+6-multiple_permissions is a script that grants multiple permissions to hello
