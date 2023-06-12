@@ -1,4 +1,5 @@
-0-hello_world is a script that prints “Hello, World”, followed by a new line to the standard output
+0-hello_world is a script that prints “Hello, World”, followed by a new line
+to the standard output
 1-confused_smiley is a script  that displays a confused smiley "(Ôo)"
 2-hellofile is a script that displays the content of the /etc/passwd file
 3-twofiles is a script that displays the content of /etc/passwd and /etc/hosts
@@ -14,3 +15,4 @@
 13-unique is a script that takes a list of words as input and prints only words that appear exactly once
 14-findthatword is a script that displays  lines containing the pattern “root” from the file /etc/passwd
 15-countthatword is a script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+16-whatsnext is a sript that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
