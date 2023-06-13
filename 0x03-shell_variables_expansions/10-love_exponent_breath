@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(bc <<< "scale=2 $BREATH ^ $LOVE")
+result=$(echo "2^3" | awk '{printf "%.2f", $1 ** $2}')
