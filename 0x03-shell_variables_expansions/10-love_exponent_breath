@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(echo "2^3" | awk '{printf "%.2f", $1 ** $2}')
+result=$(python -c "print($BREATH ** $LOVE)")
