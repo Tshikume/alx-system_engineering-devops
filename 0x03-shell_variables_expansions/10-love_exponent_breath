@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(python -c "print($BREATH ** $LOVE)")
+perl -e "printf '%.2f\n', $BREATH**$LOVE"
