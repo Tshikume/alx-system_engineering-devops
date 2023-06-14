@@ -9,3 +9,4 @@
 8-true_knowledge is a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 9-divide_and_rule is a script that prints the result of POWER divided by DIVIDE
 10-love_exponent_breath is a script that displays the result of BREATH to the power LOVE
+12-combinations is a script that prints all possible combinations of two letters, except oo
