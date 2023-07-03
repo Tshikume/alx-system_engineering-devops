@@ -7,3 +7,4 @@
 6-multiple_permissions is a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 8-James_Bond gives 007 permission
 7-everybody gives some permissions
+9-John_Doe is a script
