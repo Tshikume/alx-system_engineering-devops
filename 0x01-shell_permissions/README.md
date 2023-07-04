@@ -8,3 +8,4 @@
 8-James_Bond gives 007 permission
 7-everybody gives some permissions
 9-John_Doe is a script
+10-mirror_permissions is a script that sets the mode of the file hello the same as olleh’s mode
